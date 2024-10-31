@@ -1,0 +1,51 @@
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+h1 {
+    color: #007bff;
+}
+
+/* Form styling */
+.container {
+    max-width: 900px;
+    margin: auto;
+}
+
+.card {
+    border: none;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+}
+
+textarea.form-control {
+    resize: none;
+}
+
+.card-body{
+    background-color: #007bff;
+}
+
+/* Output section */
+.output-section {
+    background: #007bff;
+    padding: 20px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+h3 {
+    color: #6c757d;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
